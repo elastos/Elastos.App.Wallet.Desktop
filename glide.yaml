@@ -1,0 +1,7 @@
+package: github.com/elastos/Elastos.APP.Wallet.Desktop
+import:
+- package: github.com/andlabs/ui/...
+- package: github.com/elastos/Elastos.ELA.Utility
+  version: 65287209cf49bdf76222c87f8b711d68543f2c5e
+- package: github.com/elastos/Elastos.ORG.API.Misc
+- package: github.com/elastos/Elastos.ELA/core
